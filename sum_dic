@@ -1,0 +1,76 @@
+# a={4:5,6:9,5:3}
+# sum=0
+# for i in a:
+#     sum=sum+a[i]
+# print(sum)
+
+# a={2:3,4:5,6:8}
+# for i in a:
+#     print(a[i])
+
+# Dict = {
+# 'ball' : 'green',
+# 'Ball': 'red'
+#  }
+# print(Dict['ball'])
+# print(Dict['Ball'])
+# print(Dict['bat'])
+
+
+# student=dict(age= 20,name= "Ravina")
+# print(student)
+
+# Dic= {
+#  1: 'NAVGURUKUL',
+#  2: 'IN',  
+#  3:{
+#  'A' : 'WELCOME',
+#  'B' : 'To', 
+#  'C' : 'DHARAMSALA'
+# }
+# }
+# print(Dic)
+
+
+# d={4:5,6:9,5:3}
+# for x ,y in d.items():
+#    print(x,y)
+
+# dict={6:7,7:9,9:8,5:4}
+# sum=0
+# for i in dict:
+#    sum=sum*1
+# print(sum)
+
+# list1={"a":100,"b":200,"c":300,"d":400}
+# list2={"a":200,"b":300,"c":200,"d":500}
+# i=0
+# b=[]
+# while i<len(list1)and i<len(list2):
+#    a=list1[i]+list2[i]
+#    b.append(a)
+#    i=i+1
+# print(s)
+
+
+# list1={"a":100,"b":200,"c":300,"d":400}
+# list2={"a":200,"b":300,"c":200,"d":500}
+# for i in list1:
+#    if i in list2:
+#       list1[i]=list2[i]+list1[i]
+# print(list1)
+
+# list1={"a":100,"b":200,"c":300,"d":400}
+# list2={"a":200,"b":300,"c":200,"d":500}
+# for i in list1:
+#    if i in list2:
+#       list1[i]=list2[i]+list1[i]
+# print(list1)
+
+# dict={"a":2,"b":3}
+# dict["c"]=4
+# print(dict)
+
+a={a:3,b:4}
+b["c"]=5
+print(b)

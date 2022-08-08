@@ -1,0 +1,9 @@
+# As it is mostly used for transmitting data between server to web application
+# and web application to server.
+user =int(input("enter the number"))
+if user>0:
+    print("positive")
+elif user<0:
+    print("negitive")
+else:
+    print("zero")
